@@ -1,0 +1,14 @@
+{
+  "name": "mc-afk-hosting-panel",
+  "version": "1.0.0",
+  "description": "Professional Discord Minecraft AFK Bot Hosting Panel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "mineflayer": "^4.20.0"
+  }
+}
